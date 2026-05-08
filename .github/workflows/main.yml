@@ -1,0 +1,39 @@
+name: Build and Deploy Daily Report
+
+on:
+  schedule:
+    - cron: '0 10 * * *'  # UTC 10:00 = 北京时间 18:00
+  workflow_dispatch:  # 允许手动触发
+
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: |
+          pip install -r requirements.txt 2>/dev/null || true
+          # 如果项目没有 requirements.txt，可以手动安装需要的包，例如：
+          # pip install requests beautifulsoup4
+
+      - name: Run report agent
+        run:  main.py，改成你的主脚本文件名
+
+      - name: Build static site
+        run: web_app.py
+
+      - name: Deploy to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./docs
+          publish_branch: main
+          force_orphan: false
