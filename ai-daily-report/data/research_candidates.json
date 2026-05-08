@@ -1,0 +1,146 @@
+[
+  {
+    "title": "Buenos Aires",
+    "source": "贝恩资本",
+    "date": "2026-05-07",
+    "keywords": [
+      "AI"
+    ],
+    "pdf_url": "https://www.bain.com/insights/offices/buenos-aires/",
+    "local_path": ""
+  },
+  {
+    "title": "Chief AI Officer (CAIO)",
+    "source": "普华永道",
+    "date": "2026-05-07",
+    "keywords": [
+      "AI"
+    ],
+    "pdf_url": "https://www.pwc.com/us/en/executive-leadership-hub/caio.html",
+    "local_path": ""
+  },
+  {
+    "title": "Asserting American Leadership in Open Source AI",
+    "source": "a16z",
+    "date": "2026-05-07",
+    "keywords": [
+      "AI"
+    ],
+    "pdf_url": "https://a16z.com/asserting-american-leadership-in-open-source-ai/",
+    "local_path": ""
+  },
+  {
+    "title": "Short Story on AI: Forward Pass",
+    "source": "Andrej Karpathy",
+    "url": "https://karpathy.github.io/2021/03/27/forward-pass/",
+    "date": "2026-05-07"
+  },
+  {
+    "title": "A Recipe for Training Neural Networks",
+    "source": "Andrej Karpathy",
+    "url": "https://karpathy.github.io/2019/04/25/recipe/",
+    "date": "2026-05-07"
+  },
+  {
+    "title": "Short Story on AI: A Cognitive Discontinuity.",
+    "source": "Andrej Karpathy",
+    "url": "https://karpathy.github.io/2015/11/14/ai/",
+    "date": "2026-05-07"
+  },
+  {
+    "title": "What I learned from competing against a ConvNet on ImageNet",
+    "source": "Andrej Karpathy",
+    "url": "https://karpathy.github.io/2014/09/02/what-i-learned-from-competing-against-a-convnet-on-imagenet/",
+    "date": "2026-05-07"
+  },
+  {
+    "title": "Interview with Data Science Weekly on Neural Nets and ConvNetJS",
+    "source": "Andrej Karpathy",
+    "url": "https://karpathy.github.io/2014/04/26/datascience-weekly-interview/",
+    "date": "2026-05-07"
+  },
+  {
+    "title": "Breaking Into AI",
+    "source": "Andrew Ng",
+    "url": "https://www.deeplearning.ai/blog/blog/category/breaking-into-ai/",
+    "date": "2026-05-07"
+  },
+  {
+    "title": "How frontier enterprises are building an AI advantageCompanyMay 6, 2026",
+    "source": "OpenAI Blog",
+    "url": "https://openai.com/blog/index/introducing-b2b-signals/",
+    "date": "2026-05-07"
+  },
+  {
+    "title": "Supercomputer networking to accelerate large scale AI trainingEngineeringMay 5, 2026",
+    "source": "OpenAI Blog",
+    "url": "https://openai.com/blog/index/mrc-supercomputer-networking/",
+    "date": "2026-05-07"
+  },
+  {
+    "title": "How OpenAI delivers low-latency voice AI at scaleEngineeringMay 4, 2026",
+    "source": "OpenAI Blog",
+    "url": "https://openai.com/blog/index/delivering-low-latency-voice-ai-at-scale/",
+    "date": "2026-05-07"
+  },
+  {
+    "title": "OpenAI models, Codex, and Managed Agents come to AWSProductApr 28, 2026",
+    "source": "OpenAI Blog",
+    "url": "https://openai.com/blog/index/openai-on-aws/",
+    "date": "2026-05-07"
+  },
+  {
+    "title": "Mar 18, 2026What 81,000 people want from AIWe invited Claude.ai users to share how they use AI, what they dream it could make possible, and what they fear it might do. Nearly 81,000 people participated—the largest and most multilingual qualitative study of its kind. Here's what we found.",
+    "source": "Anthropic Blog",
+    "url": "https://www.anthropic.com/news/81k-interviews",
+    "date": "2026-05-07"
+  },
+  {
+    "title": "AnnouncementsFeb 4, 2026Claude is a space to thinkWe’ve made a choice: Claude will remain ad-free. We explain why advertising incentives are incompatible with a genuinely helpful AI assistant, and how we plan to expand access without compromising user trust.",
+    "source": "Anthropic Blog",
+    "url": "https://www.anthropic.com/news/news/claude-is-a-space-to-think",
+    "date": "2026-05-07"
+  },
+  {
+    "title": "May 4, 2026AnnouncementsBuilding a new enterprise AI services company with Blackstone, Hellman & Friedman, and Goldman Sachs",
+    "source": "Anthropic Blog",
+    "url": "https://www.anthropic.com/news/news/enterprise-ai-services-company",
+    "date": "2026-05-07"
+  },
+  {
+    "title": "Apr 24, 2026AnnouncementsAnthropic and NEC collaborate to build Japan’s largest AI engineering workforce",
+    "source": "Anthropic Blog",
+    "url": "https://www.anthropic.com/news/news/anthropic-nec",
+    "date": "2026-05-07"
+  },
+  {
+    "title": "See all AI updates",
+    "source": "Google AI Blog",
+    "url": "https://blog.google/technology/ai/innovation-and-ai/",
+    "date": "2026-05-07"
+  },
+  {
+    "title": "Scaling How We Build and Test Our Most Advanced AI",
+    "source": "Meta AI Blog",
+    "url": "https://ai.meta.com/blog/scaling-how-we-build-test-advanced-ai/",
+    "date": "2026-05-07"
+  },
+  {
+    "title": "How Alta Daily Uses Meta’s Segment Anything to Reimagine the Digital Closet",
+    "source": "Meta AI Blog",
+    "url": "https://ai.meta.com/blog/alta-daily-fashion-app-segment-anything/",
+    "date": "2026-05-07"
+  },
+  {
+    "title": "Four MTIA Chips in Two Years: Scaling AI Experiences for Billions",
+    "source": "Meta AI Blog",
+    "url": "https://ai.meta.com/blog/meta-mtia-scale-ai-chips-for-billions/",
+    "date": "2026-05-07"
+  },
+  {
+    "title": "Asserting American Leadership in Open Source AI",
+    "source": "a16z Podcast",
+    "url": "https://a16z.com/asserting-american-leadership-in-open-source-ai/",
+    "date": "2026-05-07"
+  }
+]
